@@ -17,10 +17,10 @@ TradeSkillMaster_AuctioningDB = {
 				["3Default Materials Post"] = true,
 			},
 			["scrollvalue"] = 0,
-			["selected"] = "3Default Materials Post Single",
 			["treesizable"] = true,
+			["selected"] = "3Default Materials Post Single",
 			["treewidth"] = 175,
-			["fullwidth"] = 782.999755859375,
+			["fullwidth"] = 783.000061035156,
 		},
 	},
 	["profileKeys"] = {

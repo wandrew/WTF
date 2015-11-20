@@ -5,11 +5,11 @@ SkadaDB = {
 		["Kamas - Argent Dawn"] = "Default",
 		["Thaedius - Argent Dawn"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
-		["Jeskar - Argent Dawn"] = "Default",
+		["Rommos - Argent Dawn"] = "Default",
 		["Jeskar - The Scryers"] = "Default",
 		["Briscoe - Argent Dawn"] = "Default",
-		["Rommos - Argent Dawn"] = "Default",
 		["Briscoe - The Scryers"] = "Default",
+		["Jeskar - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -19,7 +19,7 @@ SkadaDB = {
 						["height"] = 67.0001068115234,
 					},
 					["y"] = 0,
-					["x"] = -112.998779296875,
+					["x"] = -112.99853515625,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "DPS",
 					["barwidth"] = 232.000030517578,
