@@ -1,0 +1,13 @@
+
+DataStore_GarrisonsDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["lastUpdate"] = 1445999105,
+			},
+		},
+	},
+}

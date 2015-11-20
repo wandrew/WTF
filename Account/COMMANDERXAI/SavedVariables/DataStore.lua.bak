@@ -1,0 +1,20 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["guildName"] = "The Core",
+				["faction"] = "Alliance",
+			},
+		},
+		["Guilds"] = {
+			["Default.Argent Dawn.The Core"] = {
+				["faction"] = "Alliance",
+			},
+		},
+	},
+}

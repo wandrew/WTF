@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["XPMax"] = 774800,
+				["played"] = 15166869,
+				["guildRankName"] = "Officer",
+				["isResting"] = true,
+				["lastUpdate"] = 1446001388,
+				["class"] = "Priest",
+				["race"] = "Human",
+				["level"] = 90,
+				["XP"] = 0,
+				["RestXP"] = 1162200,
+				["money"] = 405449187,
+				["gender"] = 2,
+				["subZone"] = "",
+				["zone"] = "Stormwind City",
+				["guildRankIndex"] = 2,
+				["name"] = "Xaevus",
+				["faction"] = "Alliance",
+				["englishRace"] = "Human",
+				["guildName"] = "The Core",
+				["lastLogoutTimestamp"] = 1446001388,
+				["englishClass"] = "PRIEST",
+			},
+		},
+	},
+}

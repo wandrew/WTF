@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["lastUpdate"] = 1445999103,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|11",
+					["HealthMax"] = 42777,
+					["Melee"] = "76-117|2.8540000915527|0|0|11|0",
+					["MaxPower"] = "0|37000",
+					["Defense"] = "130|400|3|0|0|0",
+					["PVP"] = "27409|7",
+					["Base"] = "237|300|873|816|240|130",
+					["Spell"] = "1000|1000|0|11|182|1729",
+				},
+			},
+		},
+	},
+}

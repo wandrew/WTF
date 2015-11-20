@@ -1,0 +1,18 @@
+
+SkadaDB = {
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = -132.999771118164,
+					["point"] = "RIGHT",
+					["x"] = -108.9990234375,
+				}, -- [1]
+			},
+		},
+	},
+}

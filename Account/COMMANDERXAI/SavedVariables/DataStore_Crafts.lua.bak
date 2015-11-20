@@ -1,0 +1,37 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["Professions"] = {
+					["Tailoring"] = {
+						["MaxRank"] = 600,
+						["Rank"] = 600,
+					},
+					["Fishing"] = {
+						["MaxRank"] = 300,
+						["Rank"] = 236,
+					},
+					["First Aid"] = {
+						["MaxRank"] = 525,
+						["Rank"] = 460,
+					},
+					["Cooking"] = {
+						["MaxRank"] = 375,
+						["Rank"] = 285,
+					},
+					["Enchanting"] = {
+						["MaxRank"] = 600,
+						["Rank"] = 600,
+					},
+				},
+				["Prof2"] = "Enchanting",
+				["lastUpdate"] = 1445999102,
+				["Prof1"] = "Tailoring",
+			},
+		},
+	},
+}

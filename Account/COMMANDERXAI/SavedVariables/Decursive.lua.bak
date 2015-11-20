@@ -1,0 +1,30 @@
+
+DecursiveDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Default",
+	},
+	["class"] = {
+		["PRIEST"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				1, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = -16,
+			},
+		},
+	},
+	["global"] = {
+		["LastVersionAnnounce"] = 1445999111,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.933258512283,
+			["MainBarX"] = 682.666683197022,
+			["MainBarY"] = -95.9999914738864,
+			["DebuffsFrameContainer_x"] = 1024.00002479553,
+		},
+	},
+}

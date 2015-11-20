@@ -1,0 +1,75 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Currencies"] = {
+				"Mists of Pandaria|", -- [1]
+				"Lesser Charm of Good Fortune|Interface\\Icons\\inv_misc_coin_18", -- [2]
+				"Timeless Coin|Interface\\Icons\\timelesscoin", -- [3]
+				"Warforged Seal|Interface\\Icons\\inv_arcane_orb", -- [4]
+				"Dungeon and Raid|", -- [5]
+				"Justice Points|Interface\\Icons\\pvecurrency-justice", -- [6]
+				"Valor Points|Interface\\Icons\\pvecurrency-valor", -- [7]
+				"Miscellaneous|", -- [8]
+				"Champion's Seal|Interface\\Icons\\Ability_Paladin_ArtofWar", -- [9]
+				"Darkmoon Prize Ticket|Interface\\Icons\\inv_misc_ticket_darkmoon_01", -- [10]
+				"Epicurean's Award|Interface\\Icons\\INV_Misc_Ribbon_01", -- [11]
+				"Ironpaw Token|Interface\\Icons\\inv_relics_idolofferocity", -- [12]
+				"Player vs. Player|", -- [13]
+				"Conquest Points|Interface\\Icons\\PVPCurrency-Conquest-Alliance", -- [14]
+				"Honor Points|Interface\\Icons\\PVPCurrency-Honor-Alliance", -- [15]
+			},
+			["CurrencyTextRev"] = {
+				["Ironpaw Token"] = 12,
+				["Player vs. Player"] = 13,
+				["Conquest Points"] = 14,
+				["Epicurean's Award"] = 11,
+				["Honor Points"] = 15,
+				["Darkmoon Prize Ticket"] = 10,
+				["Lesser Charm of Good Fortune"] = 2,
+				["Dungeon and Raid"] = 5,
+				["Miscellaneous"] = 8,
+				["Justice Points"] = 6,
+				["Warforged Seal"] = 4,
+				["Mists of Pandaria"] = 1,
+				["Valor Points"] = 7,
+				["Champion's Seal"] = 9,
+				["Timeless Coin"] = 3,
+			},
+		},
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["Currencies"] = {
+					3, -- [1]
+					4356, -- [2]
+					774, -- [3]
+					392, -- [4]
+					11, -- [5]
+					12, -- [6]
+					14, -- [7]
+					17, -- [8]
+					6290, -- [9]
+					8596, -- [10]
+					150, -- [11]
+					152, -- [12]
+					27, -- [13]
+					28, -- [14]
+					179486, -- [15]
+				},
+				["lastUpdate"] = 1445999102,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-10-3000",
+					[390] = "0-0-27200-0",
+					[823] = "0-0-0-0",
+					[392] = "1402-0-0-4000",
+					[994] = "0-0-0-0",
+					[824] = "0-0-0-0",
+				},
+			},
+		},
+	},
+}

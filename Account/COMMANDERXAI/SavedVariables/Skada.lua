@@ -3,25 +3,26 @@ SkadaDB = {
 	["hasUpgraded"] = true,
 	["profileKeys"] = {
 		["Kamas - Argent Dawn"] = "Default",
+		["Thaedius - Argent Dawn"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
-		["Ozminski - Argent Dawn"] = "Default",
+		["Briscoe - The Scryers"] = "Default",
+		["Jeskar - The Scryers"] = "Default",
 		["Briscoe - Argent Dawn"] = "Default",
 		["Jeskar - Argent Dawn"] = "Default",
-		["Jeskar - The Scryers"] = "Default",
+		["Rommos - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["windows"] = {
 				{
 					["background"] = {
-						["height"] = 81.0001220703125,
+						["height"] = 67.0001068115234,
 					},
-					["set"] = "total",
 					["y"] = 0,
-					["x"] = 0,
+					["x"] = -112.9990234375,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "DPS",
-					["barwidth"] = 237.000091552734,
+					["barwidth"] = 232.000030517578,
 				}, -- [1]
 			},
 		},

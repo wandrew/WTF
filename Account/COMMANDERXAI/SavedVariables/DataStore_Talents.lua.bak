@@ -1,0 +1,142 @@
+
+DataStore_TalentsDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Xaevus"] = {
+				["Class"] = "PRIEST",
+				["lastUpdate"] = 1445999102,
+				["GlyphList"] = {
+					11, -- [1]
+					4026, -- [2]
+					4314, -- [3]
+					11338, -- [4]
+					4058, -- [5]
+					4074, -- [6]
+					4186, -- [7]
+					11354, -- [8]
+					7354, -- [9]
+					4154, -- [10]
+					4298, -- [11]
+					19242, -- [12]
+					11370, -- [13]
+					4218, -- [14]
+					4042, -- [15]
+					18522, -- [16]
+					7402, -- [17]
+					4266, -- [18]
+					4330, -- [19]
+					4202, -- [20]
+					11410, -- [21]
+					4130, -- [22]
+					18418, -- [23]
+					11378, -- [24]
+					18402, -- [25]
+					18434, -- [26]
+					18482, -- [27]
+					16738, -- [28]
+					16050, -- [29]
+					11394, -- [30]
+					18466, -- [31]
+					4338, -- [32]
+					4162, -- [33]
+					4242, -- [34]
+					19378, -- [35]
+					18450, -- [36]
+					4274, -- [37]
+					18530, -- [38]
+					16082, -- [39]
+					18498, -- [40]
+					4226, -- [41]
+					16098, -- [42]
+					13, -- [43]
+					7372, -- [44]
+					7420, -- [45]
+					7340, -- [46]
+					17348, -- [47]
+					16756, -- [48]
+					16116, -- [49]
+					16772, -- [50]
+					17396, -- [51]
+					17364, -- [52]
+					7380, -- [53]
+					15380, -- [54]
+					16836, -- [55]
+					16788, -- [56]
+				},
+				["ActiveTalents"] = 2,
+			},
+		},
+		["Reference"] = {
+			["GlyphNames"] = {
+				[708] = "Dispersion",
+				[710] = "Penance",
+				[712] = "Mind Spike",
+				[1046] = "Lightwell",
+				[1049] = "The Val'kyr",
+				[1052] = "Shadowy Friends",
+				[961] = "Shadow",
+				[460] = "Borrowed Time",
+				[1085] = "Sha",
+				[251] = "Circle of Healing",
+				[1087] = "Inspired Hymns",
+				[252] = "Purify",
+				[1153] = "Restored Faith",
+				[1157] = "Redeemer",
+				[1048] = "Holy Resurrection",
+				[254] = "Fear Ward",
+				[711] = "Focused Mending",
+				[1047] = "Confession",
+				[1006] = "Vampiric Embrace",
+				[1158] = "Shadow Magic",
+				[458] = "Shadow Ravens",
+				[258] = "Deep Wells",
+				[259] = "Mass Dispel",
+				[260] = "Psychic Horror",
+				[261] = "Holy Fire",
+				[262] = "Weakened Soul",
+				[263] = "Power Word: Shield",
+				[1150] = "Free Action",
+				[1154] = "Miraculous Dispelling",
+				[266] = "Renew",
+				[267] = "Scourge Imprisonment",
+				[268] = "Mind Blast",
+				[269] = "Dispel Magic",
+				[459] = "Levitate",
+				[271] = "Prayer of Mending",
+				[461] = "Shackle Undead",
+				[462] = "Reflective Shield",
+				[463] = "Dark Archangel",
+				[264] = "Spirit of Redemption",
+				[1156] = "Silence",
+				[1202] = "Mind Harvest",
+				[270] = "Smite",
+				[1084] = "Angels",
+				[1151] = "Delayed Coalescence",
+				[1155] = "Inquisitor",
+				[1211] = "Purification",
+				[265] = "Psychic Scream",
+				[709] = "Leap of Faith",
+				[1003] = "Mind Flay",
+				[1005] = "Shadow Word: Death",
+				[1007] = "Heavens",
+				[713] = "Binding Heal",
+				[253] = "Fade",
+				[1152] = "Guardian Spirit",
+			},
+		},
+	},
+}
+DataStore_TalentsRefDB = {
+	["profileKeys"] = {
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
+	},
+	["global"] = {
+		["PRIEST"] = {
+			["Locale"] = "enUS",
+			["Version"] = 20574,
+		},
+	},
+}
