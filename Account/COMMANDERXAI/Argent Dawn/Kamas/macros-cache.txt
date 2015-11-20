@@ -1,0 +1,6 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Steady Shot
+/cast Dire Beast
+/run UIErrorsFrame:Clear()
+/cast Steady Shot
+END

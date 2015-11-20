@@ -1,0 +1,8 @@
+Version: 1
+Frame: TSMMainFrame1
+FrameLevel: 24
+Anchor: BOTTOM
+X: -65
+Y: -20
+W: 823
+H: 686

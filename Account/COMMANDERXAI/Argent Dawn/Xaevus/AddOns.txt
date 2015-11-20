@@ -1,0 +1,12 @@
+TradeSkillMaster: enabled
+TradeSkillMaster_Accounting: enabled
+TradeSkillMaster_Additions: enabled
+TradeSkillMaster_AuctionDB: enabled
+TradeSkillMaster_Auctioning: enabled
+TradeSkillMaster_Destroying: enabled
+TradeSkillMaster_ItemTracker: enabled
+TradeSkillMaster_Mailing: enabled
+TradeSkillMaster_Shopping: enabled
+TradeSkillMaster_Warehousing: enabled
+TradeSkillMaster_WoWuction: enabled
+TradeSkillMaster_Crafting: enabled

@@ -1,0 +1,26 @@
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip [modifier:shift] Shattering Throw; Heroic Throw
+/cast [modifier:shift] Shattering Throw; Heroic Throw
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Heroic Strike
+/cast Deadly Calm
+/script UIErrorsFrame:Clear()
+/cast Commanding Shout
+/script UIErrorsFrame:Clear()
+/cast Heroic Strike
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Shield Slam
+/cast Shield Barrier
+/script UIErrorsFrame:Clear()
+/cast Shield Slam
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Cleave
+/cast Deadly Calm
+/script UIErrorsFrame:Clear()
+/cast Commanding Shout
+/script UIErrorsFrame:Clear()
+/cast Cleave
+END
