@@ -1,9 +1,0 @@
-VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
-END
-VER 3 0000000000000003 "Fiend" "INV_MISC_QUESTIONMARK"
-/tar twilight fiend
-END
-VER 3 0000000000000002 "Looted" "INV_MISC_QUESTIONMARK"
-/run print(IsQuestFlaggedCompleted(31434))
-END
