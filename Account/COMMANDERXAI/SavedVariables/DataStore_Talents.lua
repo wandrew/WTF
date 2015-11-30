@@ -2,6 +2,7 @@
 DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
+		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
 		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
@@ -10,6 +11,7 @@ DataStore_TalentsDB = {
 			["Default.The Scryers.Jeskar"] = {
 				["ActiveTalents"] = 1,
 				["lastUpdate"] = 1447725764,
+				["Class"] = "WARRIOR",
 				["GlyphList"] = {
 					11, -- [1]
 					7954, -- [2]
@@ -59,11 +61,11 @@ DataStore_TalentsDB = {
 					17604, -- [46]
 					17620, -- [47]
 				},
-				["Class"] = "WARRIOR",
 			},
 			["Default.The Scryers.Briscoe"] = {
 				["ActiveTalents"] = 1,
 				["lastUpdate"] = 1446776830,
+				["Class"] = "WARRIOR",
 				["GlyphList"] = {
 					11, -- [1]
 					7954, -- [2]
@@ -113,11 +115,11 @@ DataStore_TalentsDB = {
 					17604, -- [46]
 					17620, -- [47]
 				},
-				["Class"] = "WARRIOR",
 			},
 			["Default.Argent Dawn.Xaevus"] = {
 				["ActiveTalents"] = 2,
-				["lastUpdate"] = 1445999102,
+				["lastUpdate"] = 1448904699,
+				["Class"] = "PRIEST",
 				["GlyphList"] = {
 					11, -- [1]
 					4026, -- [2]
@@ -176,110 +178,212 @@ DataStore_TalentsDB = {
 					16836, -- [55]
 					16788, -- [56]
 				},
-				["Class"] = "PRIEST",
+			},
+			["Default.Argent Dawn.Briscoe"] = {
+				["ActiveTalents"] = 1,
+				["lastUpdate"] = 1448921665,
+				["GlyphList"] = {
+					11, -- [1]
+					3018, -- [2]
+					15946, -- [3]
+					11226, -- [4]
+					3210, -- [5]
+					8970, -- [6]
+					8954, -- [7]
+					2954, -- [8]
+					2986, -- [9]
+					11258, -- [10]
+					3178, -- [11]
+					2938, -- [12]
+					3114, -- [13]
+					7290, -- [14]
+					17098, -- [15]
+					3162, -- [16]
+					11306, -- [17]
+					8986, -- [18]
+					18394, -- [19]
+					3194, -- [20]
+					19258, -- [21]
+					3002, -- [22]
+					3130, -- [23]
+					18306, -- [24]
+					3074, -- [25]
+					19330, -- [26]
+					3026, -- [27]
+					18322, -- [28]
+					17074, -- [29]
+					18338, -- [30]
+					3058, -- [31]
+					18370, -- [32]
+					2962, -- [33]
+					18354, -- [34]
+					16146, -- [35]
+					14882, -- [36]
+					13, -- [37]
+					7244, -- [38]
+					7324, -- [39]
+					3052, -- [40]
+					15820, -- [41]
+					7308, -- [42]
+					7260, -- [43]
+					7276, -- [44]
+					15828, -- [45]
+					17316, -- [46]
+					15796, -- [47]
+					15780, -- [48]
+					17332, -- [49]
+				},
+				["Class"] = "PALADIN",
 			},
 		},
 		["Reference"] = {
 			["GlyphNames"] = {
-				[1158] = "Shadow Magic",
-				[1047] = "Confession",
-				[492] = "Hindering Strikes",
-				[496] = "Gag Order",
+				[261] = "Holy Fire",
+				[1100] = "Watchful Eye",
+				[1101] = "Weaponmaster",
+				[712] = "Mind Spike",
+				[187] = "Templar's Verdict",
+				[195] = "Word of Glory",
+				[453] = "The Mounted King",
+				[485] = "Long Charge",
 				[251] = "Circle of Healing",
-				[253] = "Fade",
-				[508] = "Victory Rush",
-				[258] = "Deep Wells",
 				[262] = "Weakened Soul",
-				[266] = "Renew",
-				[270] = "Smite",
-				[711] = "Focused Mending",
+				[454] = "Winged Vengeance",
+				[486] = "Gushing Wound",
+				[502] = "Shield Slam",
+				[263] = "Power Word: Shield",
+				[1003] = "Mind Flay",
+				[1046] = "Lightwell",
+				[455] = "Flash of Light",
+				[487] = "Unending Rage",
+				[252] = "Purify",
+				[1048] = "Holy Resurrection",
 				[1049] = "The Val'kyr",
 				[1005] = "Shadow Word: Death",
-				[767] = "Shield Wall",
-				[461] = "Shackle Undead",
-				[1098] = "Raging Whirlwind",
-				[712] = "Mind Spike",
-				[489] = "Mortal Strike",
-				[497] = "Blitz",
-				[1099] = "Subtle Defender",
-				[1006] = "Vampiric Embrace",
-				[509] = "Raging Wind",
-				[259] = "Mass Dispel",
-				[263] = "Power Word: Shield",
-				[1052] = "Shadowy Friends",
-				[271] = "Prayer of Mending",
-				[1084] = "Angels",
-				[1100] = "Watchful Eye",
-				[713] = "Binding Heal",
-				[1085] = "Sha",
-				[1101] = "Weaponmaster",
-				[1007] = "Heavens",
-				[458] = "Shadow Ravens",
-				[462] = "Reflective Shield",
-				[1150] = "Free Action",
-				[486] = "Gushing Wound",
-				[1182] = "Drawn Sword",
-				[494] = "Bloodthirst",
-				[1087] = "Inspired Hymns",
-				[252] = "Purify",
-				[254] = "Fear Ward",
-				[762] = "Wind and Thunder",
-				[1151] = "Delayed Coalescence",
-				[264] = "Spirit of Redemption",
-				[268] = "Mind Blast",
+				[559] = "Denounce",
+				[456] = "Seal of Blood",
 				[488] = "Mighty Victory",
-				[990] = "Crow Feast",
-				[1181] = "Cleave",
-				[490] = "Bloody Healing",
-				[1152] = "Guardian Spirit",
-				[961] = "Shadow",
-				[1020] = "Blazing Trail",
-				[1184] = "Mocking Banner",
-				[1073] = "Executor",
-				[260] = "Psychic Horror",
-				[505] = "Sweeping Strikes",
-				[502] = "Shield Slam",
-				[763] = "Death from Above",
-				[1153] = "Restored Faith",
-				[766] = "Spell Reflection",
-				[459] = "Levitate",
-				[463] = "Dark Archangel",
-				[710] = "Penance",
-				[483] = "Mystic Shout",
-				[851] = "Thunder Strike",
-				[1186] = "Rallying Cry",
-				[708] = "Dispersion",
-				[487] = "Unending Rage",
-				[491] = "Enraged Speed",
-				[1202] = "Mind Harvest",
-				[499] = "Die by the Sword",
-				[1187] = "Shattering Throw",
-				[507] = "Resonating Power",
-				[764] = "Victorious Throw",
-				[261] = "Holy Fire",
+				[1006] = "Vampiric Embrace",
 				[265] = "Psychic Scream",
-				[269] = "Dispel Magic",
-				[1156] = "Silence",
-				[931] = "Bull Rush",
-				[1185] = "Raging Blow",
-				[485] = "Long Charge",
+				[560] = "Dazing Shield",
+				[1181] = "Cleave",
+				[189] = "Consecration",
+				[197] = "Harsh Words",
+				[561] = "Immediate Truth",
+				[1182] = "Drawn Sword",
+				[457] = "Fire From the Heavens",
 				[1183] = "Heroic Leap",
-				[709] = "Leap of Faith",
-				[1155] = "Inquisitor",
-				[1188] = "Flawless Defense",
-				[495] = "Rude Interruption",
-				[1154] = "Miraculous Dispelling",
-				[1003] = "Mind Flay",
-				[1211] = "Purification",
-				[765] = "Intimidating Shout",
-				[1157] = "Redeemer",
-				[1046] = "Lightwell",
-				[460] = "Borrowed Time",
-				[484] = "Bloodcurdling Shout",
-				[932] = "Recklessness",
-				[991] = "Burning Anger",
+				[505] = "Sweeping Strikes",
+				[266] = "Renew",
+				[1184] = "Mocking Banner",
+				[1185] = "Raging Blow",
+				[1009] = "Mass Exorcism",
+				[1186] = "Rallying Cry",
+				[458] = "Shadow Ravens",
+				[1187] = "Shattering Throw",
 				[267] = "Scourge Imprisonment",
-				[1048] = "Holy Resurrection",
+				[851] = "Thunder Strike",
+				[190] = "Luminous Charger",
+				[198] = "Divinity",
+				[459] = "Levitate",
+				[491] = "Enraged Speed",
+				[507] = "Resonating Power",
+				[268] = "Mind Blast",
+				[460] = "Borrowed Time",
+				[492] = "Hindering Strikes",
+				[508] = "Victory Rush",
+				[1068] = "Hand of Sacrifice",
+				[183] = "Double Jeopardy",
+				[191] = "Focused Shield",
+				[199] = "Light of Dawn",
+				[461] = "Shackle Undead",
+				[509] = "Raging Wind",
+				[270] = "Smite",
+				[1073] = "Executor",
+				[762] = "Wind and Thunder",
+				[1202] = "Mind Harvest",
+				[462] = "Reflective Shield",
+				[1203] = "Merciful Wrath",
+				[763] = "Death from Above",
+				[271] = "Prayer of Mending",
+				[184] = "Devotion Aura",
+				[764] = "Victorious Throw",
+				[200] = "Blessed Life",
+				[463] = "Dark Archangel",
+				[701] = "Beacon of Light",
+				[495] = "Rude Interruption",
+				[765] = "Intimidating Shout",
+				[1144] = "Ardent Defender",
+				[1208] = "Cleanse",
+				[1145] = "Consecrator",
+				[989] = "Bladed Judgment",
+				[766] = "Spell Reflection",
+				[1082] = "Exorcist",
+				[1146] = "Divine Wrath",
+				[1083] = "Pillar of Light",
+				[703] = "Divine Storm",
+				[1211] = "Purification",
+				[767] = "Shield Wall",
+				[1084] = "Angels",
+				[1148] = "Hand of Freedom",
+				[1085] = "Sha",
+				[1149] = "Judgment",
+				[991] = "Burning Anger",
+				[1188] = "Flawless Defense",
+				[1150] = "Free Action",
+				[484] = "Bloodcurdling Shout",
+				[988] = "Righteous Retreat",
+				[1087] = "Inspired Hymns",
+				[1151] = "Delayed Coalescence",
+				[497] = "Blitz",
+				[258] = "Deep Wells",
+				[1067] = "Divine Shield",
+				[1152] = "Guardian Spirit",
+				[1020] = "Blazing Trail",
+				[961] = "Shadow",
+				[706] = "Holy Shock",
+				[1153] = "Restored Faith",
+				[990] = "Crow Feast",
+				[264] = "Spirit of Redemption",
+				[253] = "Fade",
+				[1154] = "Miraculous Dispelling",
+				[254] = "Fear Ward",
+				[494] = "Bloodthirst",
+				[930] = "Protector of the Innocent",
+				[1155] = "Inquisitor",
+				[188] = "Avenging Wrath",
+				[259] = "Mass Dispel",
+				[996] = "Battle Healer",
+				[1156] = "Silence",
+				[1007] = "Heavens",
+				[489] = "Mortal Strike",
+				[931] = "Bull Rush",
+				[708] = "Dispersion",
+				[186] = "Divine Protection",
+				[194] = "Final Wrath",
+				[1052] = "Shadowy Friends",
+				[1158] = "Shadow Magic",
+				[483] = "Mystic Shout",
+				[713] = "Binding Heal",
+				[932] = "Recklessness",
+				[709] = "Leap of Faith",
+				[499] = "Die by the Sword",
+				[260] = "Psychic Horror",
+				[1157] = "Redeemer",
+				[490] = "Bloody Healing",
+				[192] = "Burden of Guilt",
+				[987] = "Falling Avenger",
+				[269] = "Dispel Magic",
+				[710] = "Penance",
+				[496] = "Gag Order",
+				[1047] = "Confession",
+				[1098] = "Raging Whirlwind",
+				[185] = "Holy Wrath",
+				[1147] = "Liberator",
+				[452] = "Contemplation",
+				[1099] = "Subtle Defender",
+				[711] = "Focused Mending",
+				[986] = "Focused Wrath",
 			},
 		},
 	},
@@ -287,6 +391,7 @@ DataStore_TalentsDB = {
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
+		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
 		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
@@ -297,7 +402,11 @@ DataStore_TalentsRefDB = {
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
-			["Version"] = 20574,
+			["Version"] = 20726,
+		},
+		["PALADIN"] = {
+			["Locale"] = "enUS",
+			["Version"] = 20726,
 		},
 	},
 }

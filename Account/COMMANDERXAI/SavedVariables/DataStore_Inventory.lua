@@ -2,6 +2,7 @@
 DataStore_InventoryDB = {
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
+		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
 		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
@@ -53,13 +54,13 @@ DataStore_InventoryDB = {
 			},
 			["Default.Argent Dawn.Xaevus"] = {
 				["Inventory"] = {
-					"|cffffffff|Hitem:101802:0:0:0:0:0:-396:1647378523:90:258:4:0:0:491|h[]|h|r", -- [1]
-					"|cffffffff|Hitem:87359:0:0:0:0:0:0:504651520:90:258:0:0:0|h[]|h|r", -- [2]
-					"|cffffffff|Hitem:101808:0:0:0:0:0:-348:764608580:90:258:4:0:0:491|h[]|h|r", -- [3]
+					"|cffffffff|Hitem:112664:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [1]
+					"|cffffffff|Hitem:113146:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [2]
+					"|cffffffff|Hitem:112670:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [3]
 					nil, -- [4]
-					"|cffffffff|Hitem:101806:0:0:0:0:0:-479:1008599131:90:258:4:0:0:491|h[]|h|r", -- [5]
-					"|cffffffff|Hitem:101801:0:0:0:0:0:-348:1002504260:90:258:4:0:0:491|h[]|h|r", -- [6]
-					"|cffffffff|Hitem:101804:0:0:0:0:0:-480:1159790683:90:258:4:0:0:491|h[]|h|r", -- [7]
+					"|cffffffff|Hitem:112440:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [5]
+					"|cffffffff|Hitem:107318:0:0:0:0:0:0:0:90:258:0:11:1:15|h[]|h|r", -- [6]
+					"|cffffffff|Hitem:112434:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [7]
 					"|cffffffff|Hitem:101807:0:0:0:0:0:-351:1731002436:90:258:4:0:0:491|h[]|h|r", -- [8]
 					"|cffffffff|Hitem:101810:0:0:0:0:0:-360:1539047475:90:258:4:0:0:491|h[]|h|r", -- [9]
 					"|cffffffff|Hitem:87303:0:0:0:0:0:0:744017280:90:258:0:0:0|h[]|h|r", -- [10]
@@ -68,18 +69,44 @@ DataStore_InventoryDB = {
 					"|cffffffff|Hitem:103687:0:0:0:0:0:0:374020608:90:258:4:0:0:491|h[]|h|r", -- [13]
 					"|cffffffff|Hitem:103688:0:0:0:0:0:0:795685632:90:258:4:0:0:491|h[]|h|r", -- [14]
 					"|cffffffff|Hitem:87353:0:0:0:0:0:0:1308188032:90:258:0:0:0|h[]|h|r", -- [15]
-					"|cffffffff|Hitem:80788:0:0:0:0:0:0:517223296:90:258:0:0:0|h[]|h|r", -- [16]
+					"|cffffffff|Hitem:108918:0:0:0:0:0:0:0:90:258:0:11:0|h[]|h|r", -- [16]
 				},
-				["averageItemLvl"] = 470.200012207031,
-				["overallAIL"] = 479.666656494141,
-				["lastUpdate"] = 1445999102,
+				["averageItemLvl"] = 487.933319091797,
+				["overallAIL"] = 497.399993896484,
+				["lastUpdate"] = 1448904699,
+			},
+			["Default.Argent Dawn.Briscoe"] = {
+				["Inventory"] = {
+					"|cffffffff|Hitem:33820:0:0:0:0:0:0:0:100:65:0:11:0|h[]|h|r", -- [1]
+					"|cffffffff|Hitem:27944:0:0:0:0:0:0:0:100:65:0:1:0|h[]|h|r", -- [2]
+					"|cffffffff|Hitem:124590:0:0:0:0:0:0:0:100:65:4:0:3:112:761:653:529|h[]|h|r", -- [3]
+					nil, -- [4]
+					"|cffffffff|Hitem:124569:0:0:0:0:0:0:0:100:65:4:0:3:490:761:652:529|h[]|h|r", -- [5]
+					"|cffffffff|Hitem:133289:0:0:0:0:0:0:0:100:65:512:22:1:615:100|h[]|h|r", -- [6]
+					"|cffffffff|Hitem:124586:0:0:0:0:0:0:0:100:65:4:2:3:181:647:652:529|h[]|h|r", -- [7]
+					"|cffffffff|Hitem:124574:0:0:0:0:0:0:0:100:65:4:0:3:88:647:653:529|h[]|h|r", -- [8]
+					"|cffffffff|Hitem:109876:0:0:0:0:0:0:0:100:65:4:2:1:524:529|h[]|h|r", -- [9]
+					"|cffffffff|Hitem:124578:0:0:0:0:0:0:0:100:65:4:11:3:96:647:652:529|h[]|h|r", -- [10]
+					"|cffffffff|Hitem:133248:0:0:0:0:0:0:0:100:65:512:22:2:615:656:100|h[]|h|r", -- [11]
+					"|cffffffff|Hitem:118294:0:0:0:0:0:0:0:100:65:0:14:0|h[]|h|r", -- [12]
+					"|cffffffff|Hitem:128222:0:0:0:0:0:0:0:100:65:0:0:0|h[]|h|r", -- [13]
+					"|cffffffff|Hitem:133201:0:0:0:0:0:0:0:100:65:512:22:1:615:100|h[]|h|r", -- [14]
+					"|cffffffff|Hitem:109911:0:0:0:0:0:0:0:100:65:4:2:1:524:529|h[]|h|r", -- [15]
+					"|cffffffff|Hitem:44050:0:0:0:0:0:0:0:100:65:0:0:0|h[]|h|r", -- [16]
+				},
+				["averageItemLvl"] = 539,
+				["overallAIL"] = 665,
+				["lastUpdate"] = 1448921665,
 			},
 		},
 		["Guilds"] = {
 			["Default.Argent Dawn.The Core"] = {
 				["Members"] = {
+					["Briscoe"] = {
+						["averageItemLvl"] = 539,
+					},
 					["Xaevus"] = {
-						["averageItemLvl"] = 470,
+						["averageItemLvl"] = 487,
 					},
 				},
 			},

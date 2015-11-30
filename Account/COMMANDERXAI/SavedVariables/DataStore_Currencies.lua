@@ -2,6 +2,7 @@
 DataStore_CurrenciesDB = {
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
+		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
 		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
@@ -23,23 +24,47 @@ DataStore_CurrenciesDB = {
 				"Player vs. Player|", -- [13]
 				"Conquest Points|Interface\\Icons\\PVPCurrency-Conquest-Alliance", -- [14]
 				"Honor Points|Interface\\Icons\\PVPCurrency-Honor-Alliance", -- [15]
+				"Warlords of Draenor|", -- [16]
+				"Garrison Resources|Interface\\Icons\\inv_garrison_resource", -- [17]
+				"Apexis Crystal|Interface\\Icons\\inv_apexis_draenor", -- [18]
+				"Oil|Interface\\Icons\\garrison_oil", -- [19]
+				"Seal of Inevitable Fate|Interface\\Icons\\achievement_battleground_templeofkotmogu_02_green", -- [20]
+				"Seal of Tempered Fate|Interface\\Icons\\ability_animusorbs", -- [21]
+				"Essence of Corrupted Deathwing|Interface\\Icons\\inv_elemental_primal_shadow", -- [22]
+				"Mote of Darkness|Interface\\Icons\\spell_shadow_sealofkings", -- [23]
+				"Timewarped Badge|Interface\\Icons\\pvecurrency-justice", -- [24]
+				"Valor|Interface\\Icons\\pvecurrency-valor", -- [25]
+				"Elder Charm of Good Fortune|Interface\\Icons\\inv_misc_coin_17", -- [26]
+				"Mogu Rune of Fate|Interface\\Icons\\archaeology_5_0_mogucoin", -- [27]
 			},
 			["CurrencyTextRev"] = {
 				["Ironpaw Token"] = 12,
-				["Miscellaneous"] = 8,
-				["Champion's Seal"] = 9,
-				["Epicurean's Award"] = 11,
-				["Honor Points"] = 15,
+				["Valor"] = 25,
 				["Lesser Charm of Good Fortune"] = 2,
-				["Dungeon and Raid"] = 5,
-				["Justice Points"] = 6,
-				["Darkmoon Prize Ticket"] = 10,
+				["Garrison Resources"] = 17,
+				["Warlords of Draenor"] = 16,
 				["Valor Points"] = 7,
 				["Warforged Seal"] = 4,
 				["Mists of Pandaria"] = 1,
-				["Conquest Points"] = 14,
+				["Elder Charm of Good Fortune"] = 26,
 				["Player vs. Player"] = 13,
+				["Mote of Darkness"] = 23,
+				["Conquest Points"] = 14,
+				["Darkmoon Prize Ticket"] = 10,
 				["Timeless Coin"] = 3,
+				["Seal of Inevitable Fate"] = 20,
+				["Epicurean's Award"] = 11,
+				["Honor Points"] = 15,
+				["Oil"] = 19,
+				["Miscellaneous"] = 8,
+				["Essence of Corrupted Deathwing"] = 22,
+				["Apexis Crystal"] = 18,
+				["Justice Points"] = 6,
+				["Seal of Tempered Fate"] = 21,
+				["Dungeon and Raid"] = 5,
+				["Timewarped Badge"] = 24,
+				["Champion's Seal"] = 9,
+				["Mogu Rune of Fate"] = 27,
 			},
 		},
 		["Characters"] = {
@@ -72,8 +97,8 @@ DataStore_CurrenciesDB = {
 					[390] = "0-0-30200-0",
 					[823] = "0-0-0-0",
 					[392] = "0-0-0-0",
-					[994] = "0-0-0-0",
 					[824] = "0-0-0-0",
+					[994] = "0-0-0-0",
 				},
 			},
 			["Default.The Scryers.Briscoe"] = {
@@ -88,37 +113,109 @@ DataStore_CurrenciesDB = {
 					[390] = "0-0-28700-0",
 					[823] = "0-0-0-0",
 					[392] = "0-0-0-0",
-					[994] = "0-0-0-0",
 					[824] = "0-0-0-0",
+					[994] = "0-0-0-0",
 				},
 			},
 			["Default.Argent Dawn.Xaevus"] = {
 				["Currencies"] = {
-					3, -- [1]
-					4356, -- [2]
-					774, -- [3]
-					392, -- [4]
-					11, -- [5]
-					12, -- [6]
-					14, -- [7]
-					17, -- [8]
-					6290, -- [9]
-					8596, -- [10]
-					150, -- [11]
-					152, -- [12]
-					27, -- [13]
-					28, -- [14]
-					179486, -- [15]
+					33, -- [1]
+					50722, -- [2]
+					17, -- [3]
+					6290, -- [4]
+					8596, -- [5]
+					150, -- [6]
+					152, -- [7]
+					27, -- [8]
+					28, -- [9]
+					179486, -- [10]
+					3, -- [11]
+					4356, -- [12]
+					774, -- [13]
+					392, -- [14]
 				},
-				["lastUpdate"] = 1445999102,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+				},
+				["lastUpdate"] = 1448904719,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[396] = "0-0-10-3000",
-					[390] = "0-0-27200-0",
+					[390] = "0-0-3200-0",
 					[823] = "0-0-0-0",
 					[392] = "1402-0-0-4000",
-					[824] = "0-0-0-0",
 					[994] = "0-0-0-0",
+					[824] = "396-0-0-10000",
+				},
+			},
+			["Default.Argent Dawn.Briscoe"] = {
+				["Currencies"] = {
+					33, -- [1]
+					4978724, -- [2]
+					559650, -- [3]
+					7078, -- [4]
+					168, -- [5]
+					170, -- [6]
+					11, -- [7]
+					172, -- [8]
+					942, -- [9]
+					83888, -- [10]
+					38450, -- [11]
+					17, -- [12]
+					4498, -- [13]
+					7444, -- [14]
+					5782, -- [15]
+					920, -- [16]
+					27, -- [17]
+					28, -- [18]
+					97310, -- [19]
+					3, -- [20]
+					52, -- [21]
+					313348, -- [22]
+					54, -- [23]
+					6829574, -- [24]
+					8, -- [25]
+				},
+				["Archeology"] = {
+					36, -- [1]
+					40, -- [2]
+					10, -- [3]
+					22, -- [4]
+					42, -- [5]
+					10, -- [6]
+					39, -- [7]
+					31, -- [8]
+					36, -- [9]
+					0, -- [10]
+					11, -- [11]
+					26, -- [12]
+					87, -- [13]
+					51, -- [14]
+					60, -- [15]
+				},
+				["lastUpdate"] = 1448921665,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-10-3000",
+					[390] = "0-0-3200-0",
+					[823] = "38896-0-0-0",
+					[392] = "760-0-0-4000",
+					[824] = "4372-0-0-10000",
+					[994] = "1-0-0-20",
 				},
 			},
 		},

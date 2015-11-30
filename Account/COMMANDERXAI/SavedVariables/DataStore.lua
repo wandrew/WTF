@@ -2,6 +2,7 @@
 DataStoreDB = {
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
+		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
 		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
@@ -20,6 +21,10 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 			},
 			["Default.Argent Dawn.Xaevus"] = {
+				["guildName"] = "The Core",
+				["faction"] = "Alliance",
+			},
+			["Default.Argent Dawn.Briscoe"] = {
 				["faction"] = "Alliance",
 				["guildName"] = "The Core",
 			},

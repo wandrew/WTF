@@ -51,33 +51,33 @@ TradeSkillMaster_AdditionsDB = {
 				["A buyer has been found for your auction of Vizier Bracelets of Stamina."] = "|cff1eff00|Hitem:36058:0:0:0:0:0:-16:695402522:90:258:0:0:0|h[Vizier Bracelets of Stamina]|h|r",
 				["A buyer has been found for your auction of Draenethyst Wand of the Owl."] = "|cff1eff00|Hitem:25293:0:0:0:0:0:-9:1657667600:90:258:0:0:0|h[Draenethyst Wand of the Owl]|h|r",
 				["A buyer has been found for your auction of Primal Nether."] = "|cff0070dd|Hitem:23572:0:0:0:0:0:0:0:90:258:0:0:0|h[Primal Nether]|h|r",
-				["A buyer has been found for your auction of Juicycrunch Carrot Seeds."] = "|cffffffff|Hitem:80590:0:0:0:0:0:0:38239360:90:258:0:0:0|h[Juicycrunch Carrot Seeds]|h|r",
+				["A buyer has been found for your auction of Howling Sword of the Deft."] = "|cff1eff00|Hitem:116641:0:0:0:0:0:0:0:90:258:0:0:2:138:517|h[Howling Sword of the Deft]|h|r",
 				["A buyer has been found for your auction of Rowan's Rifle of Silver Bullets."] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:90:258:0:0:0|h[Rowan's Rifle of Silver Bullets]|h|r",
 				["A buyer has been found for your auction of Solid Ice Wand of the Sorcerer."] = "|cff1eff00|Hitem:36667:0:0:0:0:0:-36:952172564:90:258:0:0:0|h[Solid Ice Wand of the Sorcerer]|h|r",
 				["A buyer has been found for your auction of Murglesnout."] = "|cffffffff|Hitem:53069:0:0:0:0:0:0:458442240:90:258:0:0:0|h[Murglesnout]|h|r",
 				["A buyer has been found for your auction of Runed Orb."] = "|cff0070dd|Hitem:45087:0:0:0:0:0:0:0:90:258:0:0:0|h[Runed Orb]|h|r",
-				["A buyer has been found for your auction of Voidwrap Handwraps of the Strategist."] = "|cff1eff00|Hitem:106706:0:0:0:0:0:0:0:90:258:0:0:1:235|h[Voidwrap Handwraps of the Strategist]|h|r",
+				["A buyer has been found for your auction of Dragonhawk Gloves of the Owl."] = "|cff1eff00|Hitem:24801:0:0:0:0:0:-9:867696668:90:258:0:0:0|h[Dragonhawk Gloves of the Owl]|h|r",
 				["A buyer has been found for your auction of High-Powered Bolt Gun."] = "|cff0070dd|Hitem:60223:0:0:0:0:0:0:442166400:90:258:0:0:0|h[High-Powered Bolt Gun]|h|r",
 				["A buyer has been found for your auction of Packrunner Belt of the Harmonious."] = "|cff1eff00|Hitem:106745:0:0:0:0:0:0:0:90:258:0:0:1:207|h[Packrunner Belt of the Harmonious]|h|r",
-				["A buyer has been found for your auction of Twisted Puzzle-Ring."] = "|cff0070dd|Hitem:37822:0:0:0:0:0:0:0:90:258:0:1:0|h[Twisted Puzzle-Ring]|h|r",
+				["A buyer has been found for your auction of Dawnstone."] = "|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:90:258:0:0:0|h[Dawnstone]|h|r",
 				["A buyer has been found for your auction of Scroll of Agility VII."] = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:90:258:0:0:0|h[Scroll of Agility VII]|h|r",
 				["A buyer has been found for your auction of Puzzle Ring of the Falcon."] = "|cff1eff00|Hitem:36430:0:0:0:0:0:-11:1900347418:90:258:0:0:0|h[Puzzle Ring of the Falcon]|h|r",
 				["A buyer has been found for your auction of Eldr'naan Shoulderpads of Intellect."] = "|cff1eff00|Hitem:24675:0:0:0:0:0:-26:477167644:90:258:0:0:0|h[Eldr'naan Shoulderpads of Intellect]|h|r",
-				["A buyer has been found for your auction of Revenant Belt of Power."] = "|cff1eff00|Hitem:36387:0:0:0:0:0:-20:1437401123:90:258:0:0:0|h[Revenant Belt of Power]|h|r",
+				["A buyer has been found for your auction of Voidwrap Shoulderpads of the Harmonious."] = "|cff1eff00|Hitem:106710:0:0:0:0:0:0:0:90:258:0:0:1:199|h[Voidwrap Shoulderpads of the Harmonious]|h|r",
 				["A buyer has been found for your auction of Revenant Greaves of Intellect."] = "|cff1eff00|Hitem:36388:0:0:0:0:0:-26:1505427491:90:258:0:0:0|h[Revenant Greaves of Intellect]|h|r",
-				["A buyer has been found for your auction of Meadowstomper Gloves of the Feverflare."] = "|cff1eff00|Hitem:106732:0:0:0:0:0:0:0:90:258:0:0:1:117|h[Meadowstomper Gloves of the Feverflare]|h|r",
+				["A buyer has been found for your auction of Webspinner Leggings of the Falcon."] = "|cff1eff00|Hitem:36168:0:0:0:0:0:-11:1767964719:90:258:0:0:0|h[Webspinner Leggings of the Falcon]|h|r",
 				["A buyer has been found for your auction of White Smoke Flare."] = "|cffffffff|Hitem:23768:0:0:0:0:0:0:1212135680:90:258:0:0:0|h[White Smoke Flare]|h|r",
 				["A buyer has been found for your auction of Eldr'naan Belt of Stamina."] = "|cff1eff00|Hitem:24669:0:0:0:0:0:-16:92930076:90:258:0:0:0|h[Eldr'naan Belt of Stamina]|h|r",
 				["A buyer has been found for your auction of Arctic War Hammer of the Elder."] = "|cff1eff00|Hitem:36511:0:0:0:0:0:-44:915669039:90:258:0:0:0|h[Arctic War Hammer of the Elder]|h|r",
-				["A buyer has been found for your auction of Webspinner Leggings of the Falcon."] = "|cff1eff00|Hitem:36168:0:0:0:0:0:-11:1767964719:90:258:0:0:0|h[Webspinner Leggings of the Falcon]|h|r",
+				["A buyer has been found for your auction of Meadowstomper Gloves of the Feverflare."] = "|cff1eff00|Hitem:106732:0:0:0:0:0:0:0:90:258:0:0:1:117|h[Meadowstomper Gloves of the Feverflare]|h|r",
 				["A buyer has been found for your auction of Shadow Council Pants of the Sorcerer."] = "|cff1eff00|Hitem:24666:0:0:0:0:0:-36:1962016805:90:258:0:0:0|h[Shadow Council Pants of the Sorcerer]|h|r",
-				["A buyer has been found for your auction of Voidwrap Shoulderpads of the Harmonious."] = "|cff1eff00|Hitem:106710:0:0:0:0:0:0:0:90:258:0:0:1:199|h[Voidwrap Shoulderpads of the Harmonious]|h|r",
+				["A buyer has been found for your auction of Revenant Belt of Power."] = "|cff1eff00|Hitem:36387:0:0:0:0:0:-20:1437401123:90:258:0:0:0|h[Revenant Belt of Power]|h|r",
 				["A buyer has been found for your auction of Dark Star Wristwraps of the Strategist."] = "|cff1eff00|Hitem:106744:0:0:0:0:0:0:0:90:258:0:2:1:234|h[Dark Star Wristwraps of the Strategist]|h|r",
-				["A buyer has been found for your auction of Dawnstone."] = "|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:90:258:0:0:0|h[Dawnstone]|h|r",
-				["A buyer has been found for your auction of Dragonhawk Gloves of the Owl."] = "|cff1eff00|Hitem:24801:0:0:0:0:0:-9:867696668:90:258:0:0:0|h[Dragonhawk Gloves of the Owl]|h|r",
+				["A buyer has been found for your auction of Twisted Puzzle-Ring."] = "|cff0070dd|Hitem:37822:0:0:0:0:0:0:0:90:258:0:1:0|h[Twisted Puzzle-Ring]|h|r",
+				["A buyer has been found for your auction of Voidwrap Handwraps of the Strategist."] = "|cff1eff00|Hitem:106706:0:0:0:0:0:0:0:90:258:0:0:1:235|h[Voidwrap Handwraps of the Strategist]|h|r",
 				["A buyer has been found for your auction of Phantom Dagger of the Monkey."] = "|cff1eff00|Hitem:25113:0:0:0:0:0:-5:1193213968:90:258:0:0:0|h[Phantom Dagger of the Monkey]|h|r",
 				["A buyer has been found for your auction of Dark Star Shoulderpads of the Harmonious."] = "|cff1eff00|Hitem:106743:0:0:0:0:0:0:0:90:258:0:0:1:205|h[Dark Star Shoulderpads of the Harmonious]|h|r",
-				["A buyer has been found for your auction of Howling Sword of the Deft."] = "|cff1eff00|Hitem:116641:0:0:0:0:0:0:0:90:258:0:0:2:138:517|h[Howling Sword of the Deft]|h|r",
+				["A buyer has been found for your auction of Juicycrunch Carrot Seeds."] = "|cffffffff|Hitem:80590:0:0:0:0:0:0:38239360:90:258:0:0:0|h[Juicycrunch Carrot Seeds]|h|r",
 			},
 			["auctionPrices"] = {
 				["|cffa335ee|Hitem:30183:0:0:0:0:0:0:0:90:258:0:0:0|h[Nether Vortex]|h|r"] = {
@@ -215,25 +215,26 @@ TradeSkillMaster_AdditionsDB = {
 				["|cff1eff00|Hitem:25169:0:0:0:0:0:-14:1342111781:90:258:0:0:0|h[Fel Orc Brute Sword of the Tiger]|h|r"] = {
 					667692, -- [1]
 				},
-				["|cffffffff|Hitem:43463:0:0:0:0:0:0:0:90:258:0:0:0|h[Scroll of Agility VII]|h|r"] = {
-					4198, -- [1]
+				["|cff0070dd|Hitem:60223:0:0:0:0:0:0:442166400:90:258:0:0:0|h[High-Powered Bolt Gun]|h|r"] = {
+					448797, -- [1]
 				},
-				["|cffffffff|Hitem:109184:0:0:0:0:0:0:0:90:258:0:0:0|h[Stealthman 54]|h|r"] = {
-					590, -- [1]
-				},
-				["|cff1eff00|Hitem:24675:0:0:0:0:0:-26:477167644:90:258:0:0:0|h[Eldr'naan Shoulderpads of Intellect]|h|r"] = {
-					4974400, -- [1]
+				["|cffffffff|Hitem:52756:0:0:0:0:0:0:564126272:90:258:0:0:0|h[Enchant Gloves - Exceptional Strength]|h|r"] = {
+					247499, -- [1]
+					247499, -- [2]
 				},
 				["|cffffffff|Hitem:53069:0:0:0:0:0:0:458442240:90:258:0:0:0|h[Murglesnout]|h|r"] = {
 					3164, -- [1]
 					3164, -- [2]
 				},
-				["|cffa335ee|Hitem:32747:0:0:0:0:0:0:0:90:258:0:0:0|h[Pattern: Swiftstrike Shoulders]|h|r"] = {
-					148499, -- [1]
-					148499, -- [2]
+				["|cffffffff|Hitem:80591:0:0:0:0:0:0:38239360:90:258:0:0:0|h[Scallion Seeds]|h|r"] = {
+					5300, -- [1]
+					5300, -- [2]
 				},
-				["|cff1eff00|Hitem:24801:0:0:0:0:0:-9:867696668:90:258:0:0:0|h[Dragonhawk Gloves of the Owl]|h|r"] = {
-					1570000, -- [1]
+				["|cff1eff00|Hitem:24675:0:0:0:0:0:-26:477167644:90:258:0:0:0|h[Eldr'naan Shoulderpads of Intellect]|h|r"] = {
+					4974400, -- [1]
+				},
+				["|cff1eff00|Hitem:24676:0:0:0:0:0:-9:1172176917:90:258:0:0:0|h[Eldr'naan Bracelets of the Owl]|h|r"] = {
+					409003, -- [1]
 				},
 				["|cff1eff00|Hitem:36430:0:0:0:0:0:-11:1900347418:90:258:0:0:0|h[Puzzle Ring of the Falcon]|h|r"] = {
 					356160, -- [1]
@@ -255,11 +256,11 @@ TradeSkillMaster_AdditionsDB = {
 					20400, -- [14]
 					20400, -- [15]
 				},
-				["|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:90:258:0:0:0|h[Rowan's Rifle of Silver Bullets]|h|r"] = {
-					999998, -- [1]
+				["|cff1eff00|Hitem:13926:0:0:0:0:0:0:1072566272:90:258:0:0:0|h[Golden Pearl]|h|r"] = {
+					47599, -- [1]
 				},
-				["|cff1eff00|Hitem:25293:0:0:0:0:0:-9:1657667600:90:258:0:0:0|h[Draenethyst Wand of the Owl]|h|r"] = {
-					1827402, -- [1]
+				["|cffa335ee|Hitem:39717:0:0:0:0:0:0:0:90:258:0:0:0|h[Inexorable Sabatons]|h|r"] = {
+					930700, -- [1]
 				},
 				["|cff1eff00|Hitem:36388:0:0:0:0:0:-26:1505427491:90:258:0:0:0|h[Revenant Greaves of Intellect]|h|r"] = {
 					665064, -- [1]
@@ -267,38 +268,37 @@ TradeSkillMaster_AdditionsDB = {
 				["|cff1eff00|Hitem:24675:0:0:0:0:0:-6:2051801116:90:258:0:0:0|h[Eldr'naan Shoulderpads of the Eagle]|h|r"] = {
 					4974400, -- [1]
 				},
-				["|cff1eff00|Hitem:24683:0:0:0:0:0:-22:257294364:90:258:0:0:0|h[Archmage Mantle of Intellect]|h|r"] = {
-					469212, -- [1]
-				},
 				["|cff1eff00|Hitem:36511:0:0:0:0:0:-44:915669039:90:258:0:0:0|h[Arctic War Hammer of the Elder]|h|r"] = {
 					500000, -- [1]
+				},
+				["|cff1eff00|Hitem:24683:0:0:0:0:0:-22:257294364:90:258:0:0:0|h[Archmage Mantle of Intellect]|h|r"] = {
+					469212, -- [1]
 				},
 				["|cff0070dd|Hitem:34664:0:0:0:0:0:0:0:90:258:0:0:0|h[Sunmote]|h|r"] = {
 					123995, -- [1]
 					123995, -- [2]
 				},
-				["|cffa335ee|Hitem:39717:0:0:0:0:0:0:0:90:258:0:0:0|h[Inexorable Sabatons]|h|r"] = {
-					930700, -- [1]
+				["|cff1eff00|Hitem:25293:0:0:0:0:0:-9:1657667600:90:258:0:0:0|h[Draenethyst Wand of the Owl]|h|r"] = {
+					1827402, -- [1]
 				},
-				["|cff1eff00|Hitem:13926:0:0:0:0:0:0:1072566272:90:258:0:0:0|h[Golden Pearl]|h|r"] = {
-					47599, -- [1]
+				["|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:90:258:0:0:0|h[Rowan's Rifle of Silver Bullets]|h|r"] = {
+					999998, -- [1]
 				},
-				["|cff1eff00|Hitem:24676:0:0:0:0:0:-9:1172176917:90:258:0:0:0|h[Eldr'naan Bracelets of the Owl]|h|r"] = {
-					409003, -- [1]
+				["|cff1eff00|Hitem:24801:0:0:0:0:0:-9:867696668:90:258:0:0:0|h[Dragonhawk Gloves of the Owl]|h|r"] = {
+					1570000, -- [1]
 				},
-				["|cffffffff|Hitem:80591:0:0:0:0:0:0:38239360:90:258:0:0:0|h[Scallion Seeds]|h|r"] = {
-					5300, -- [1]
-					5300, -- [2]
+				["|cffa335ee|Hitem:32747:0:0:0:0:0:0:0:90:258:0:0:0|h[Pattern: Swiftstrike Shoulders]|h|r"] = {
+					148499, -- [1]
+					148499, -- [2]
 				},
 				["|cff0070dd|Hitem:37822:0:0:0:0:0:0:0:90:258:0:1:0|h[Twisted Puzzle-Ring]|h|r"] = {
 					108499, -- [1]
 				},
-				["|cffffffff|Hitem:52756:0:0:0:0:0:0:564126272:90:258:0:0:0|h[Enchant Gloves - Exceptional Strength]|h|r"] = {
-					247499, -- [1]
-					247499, -- [2]
+				["|cffffffff|Hitem:109184:0:0:0:0:0:0:0:90:258:0:0:0|h[Stealthman 54]|h|r"] = {
+					590, -- [1]
 				},
-				["|cff0070dd|Hitem:60223:0:0:0:0:0:0:442166400:90:258:0:0:0|h[High-Powered Bolt Gun]|h|r"] = {
-					448797, -- [1]
+				["|cffffffff|Hitem:43463:0:0:0:0:0:0:0:90:258:0:0:0|h[Scroll of Agility VII]|h|r"] = {
+					4198, -- [1]
 				},
 				["|cff1eff00|Hitem:25042:0:0:0:0:0:-41:893845525:90:258:0:0:0|h[Nether Cloak of the Beast]|h|r"] = {
 					682240, -- [1]
@@ -313,11 +313,11 @@ TradeSkillMaster_AdditionsDB = {
 		["Ozmanski - Argent Dawn"] = "Default",
 		["Kamas - Argent Dawn"] = "Default",
 		["Thaedius - Argent Dawn"] = "Default",
-		["Aaerus - Argent Dawn"] = "Default",
-		["Rommos - Argent Dawn"] = "Default",
+		["Jeskar - The Scryers"] = "Default",
+		["Jeskar - Argent Dawn"] = "Default",
 		["Ozminski - Argent Dawn"] = "Default",
 		["Briscoe - Argent Dawn"] = "Default",
-		["Jeskar - Argent Dawn"] = "Default",
-		["Jeskar - The Scryers"] = "Default",
+		["Rommos - Argent Dawn"] = "Default",
+		["Aaerus - Argent Dawn"] = "Default",
 	},
 }
