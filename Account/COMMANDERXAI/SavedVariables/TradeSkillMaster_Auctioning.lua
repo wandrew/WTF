@@ -17,13 +17,14 @@ TradeSkillMaster_AuctioningDB = {
 				["3Default Materials Post"] = true,
 			},
 			["scrollvalue"] = 0,
-			["treesizable"] = true,
 			["selected"] = "3Default Materials Post Single",
+			["treesizable"] = true,
 			["treewidth"] = 175,
 			["fullwidth"] = 782.999938964844,
 		},
 	},
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
 		["Emberpaw - Argent Dawn"] = "Default",
 		["Daeyde - Argent Dawn"] = "Default",
@@ -40,6 +41,7 @@ TradeSkillMaster_AuctioningDB = {
 	["factionrealm"] = {
 		["Horde - The Scryers"] = {
 			["player"] = {
+				["Ozminski"] = true,
 				["Jeskar"] = true,
 			},
 		},

@@ -1,24 +1,25 @@
 
 DataStore_StatsDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.The Scryers.Jeskar"] = {
-				["lastUpdate"] = 1447726379,
+				["lastUpdate"] = 1449189899,
 				["Stats"] = {
-					["Ranged"] = "1-1|0|0|0|21.8571434021",
-					["HealthMax"] = 2180,
-					["Melee"] = "160-183|3.6820001602173|113|0|21.8571434021|0",
+					["Ranged"] = "1-1|0|0|0|19.519479751587",
+					["HealthMax"] = 3792,
+					["Melee"] = "227-259|3.699000120163|168|0|19.519479751587|0",
 					["MaxPower"] = "1|100",
-					["Spell"] = "34|26|0|21.8571434021|9|0",
+					["Spell"] = "40|40|0|19.519479751587|13|0",
 					["PVP"] = "0|0",
-					["Base"] = "113|33|109|26|30|141",
-					["Defense"] = "141|1|3|10.546966552734|3|0",
+					["Base"] = "168|51|158|40|43|176",
+					["Defense"] = "176|1|3|10.583956718445|3|0",
 				},
 			},
 			["Default.The Scryers.Briscoe"] = {
@@ -45,6 +46,19 @@ DataStore_StatsDB = {
 					["PVP"] = "27409|7",
 					["Base"] = "237|300|980|913|240|144",
 					["Spell"] = "1226|1226|0|13.565217018127|113|1729",
+				},
+			},
+			["Default.The Scryers.Ozminski"] = {
+				["lastUpdate"] = 1449195365,
+				["Stats"] = {
+					["Ranged"] = "1-1|0|0|0|8.714282989502",
+					["HealthMax"] = 350,
+					["Melee"] = "1-3|2.8690001964569|0|0|8.714282989502|0",
+					["MaxPower"] = "0|155",
+					["Defense"] = "13|1|3|0|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "3|14|25|33|11|13",
+					["Spell"] = "33|33|0|8.714282989502|6|89",
 				},
 			},
 			["Default.Argent Dawn.Briscoe"] = {

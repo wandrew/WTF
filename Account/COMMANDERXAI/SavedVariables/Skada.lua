@@ -2,6 +2,7 @@
 SkadaDB = {
 	["hasUpgraded"] = true,
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
 		["Emberpaw - Argent Dawn"] = "Default",
 		["Jeskar - The Scryers"] = "Default",

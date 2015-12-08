@@ -1,6 +1,7 @@
 
 TradeSkillMaster_WoWuctionDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
 		["Emberpaw - Argent Dawn"] = "Default",
 		["Daeyde - Argent Dawn"] = "Default",

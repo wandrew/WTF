@@ -1,36 +1,37 @@
 
 DataStore_InventoryDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.The Scryers.Jeskar"] = {
 				["Inventory"] = {
-					"|cffe6cc80|Hitem:122245:0:0:0:0:0:0:0:21:72:0:0:0|h[Polished Helm of Valor]|h|r", -- [1]
-					"|cffe6cc80|Hitem:122667:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Eternal Emberfury Talisman]|h|r", -- [2]
-					"|cffe6cc80|Hitem:122355:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Polished Spaulders of Valor]|h|r", -- [3]
+					"|cffffffff|Hitem:122245:0:0:0:0:0:0:0:30:72:0:0:0|h[]|h|r", -- [1]
+					"|cffffffff|Hitem:122667:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [2]
+					"|cffffffff|Hitem:122355:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [3]
 					nil, -- [4]
-					"|cffe6cc80|Hitem:122381:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Polished Breastplate of Valor]|h|r", -- [5]
-					"|cff1eff00|Hitem:53390:0:0:0:0:0:0:0:21:72:0:11:0|h[Skull Rock Belt]|h|r", -- [6]
-					"|cffe6cc80|Hitem:122251:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Polished Legplates of Valor]|h|r", -- [7]
-					"|cff1eff00|Hitem:53374:0:0:0:0:0:0:0:21:72:0:11:0|h[Heedless Treads]|h|r", -- [8]
-					"|cffffffff|Hitem:53373:0:0:0:0:0:0:0:21:72:0:11:0|h[Hearth Defender Bracers]|h|r", -- [9]
-					"|cff1eff00|Hitem:59538:0:0:0:0:0:0:0:21:72:0:11:0|h[Caravan Escort's Gloves]|h|r", -- [10]
+					"|cffffffff|Hitem:122381:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [5]
+					"|cffffffff|Hitem:51978:0:0:0:0:0:-68:254935050:30:72:0:1:0|h[]|h|r", -- [6]
+					"|cffffffff|Hitem:122251:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [7]
+					"|cffffffff|Hitem:53374:0:0:0:0:0:0:0:30:72:0:11:0|h[]|h|r", -- [8]
+					"|cffffffff|Hitem:59173:0:0:0:0:0:0:0:30:72:0:11:0|h[]|h|r", -- [9]
+					"|cffffffff|Hitem:59538:0:0:0:0:0:0:0:30:72:0:11:0|h[]|h|r", -- [10]
 					nil, -- [11]
 					nil, -- [12]
-					"|cffe6cc80|Hitem:122361:0:0:0:0:0:0:0:21:72:0:0:0|h[Swift Hand of Justice]|h|r", -- [13]
+					"|cffffffff|Hitem:122361:0:0:0:0:0:0:0:30:72:0:0:0|h[]|h|r", -- [13]
 					nil, -- [14]
-					"|cffe6cc80|Hitem:122260:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Worn Stoneskin Gargoyle Cape]|h|r", -- [15]
-					"|cffe6cc80|Hitem:122349:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Bloodied Arcanite Reaper]|h|r", -- [16]
-					"|cffe6cc80|Hitem:122349:0:0:0:0:0:0:0:21:72:0:0:1:582|h[Bloodied Arcanite Reaper]|h|r", -- [17]
+					"|cffffffff|Hitem:122260:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [15]
+					"|cffffffff|Hitem:122349:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [16]
+					"|cffffffff|Hitem:122349:0:0:0:0:0:0:0:30:72:0:0:1:582|h[]|h|r", -- [17]
 				},
-				["averageItemLvl"] = 16.375,
-				["overallAIL"] = 16.375,
-				["lastUpdate"] = 1447725764,
+				["averageItemLvl"] = 24.3125,
+				["overallAIL"] = 26.4375,
+				["lastUpdate"] = 1449189898,
 			},
 			["Default.The Scryers.Briscoe"] = {
 				["Inventory"] = {
@@ -74,6 +75,18 @@ DataStore_InventoryDB = {
 				["averageItemLvl"] = 487.933319091797,
 				["overallAIL"] = 497.399993896484,
 				["lastUpdate"] = 1448904699,
+			},
+			["Default.The Scryers.Ozminski"] = {
+				["Inventory"] = {
+					122250, -- [1]
+					[7] = 122256,
+					[8] = 49522,
+					[16] = 35,
+					[5] = 49520,
+				},
+				["averageItemLvl"] = 1.53333330154419,
+				["overallAIL"] = 1.53333330154419,
+				["lastUpdate"] = 1449195365,
 			},
 			["Default.Argent Dawn.Briscoe"] = {
 				["Inventory"] = {

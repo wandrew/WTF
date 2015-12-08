@@ -15,6 +15,17 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
+		["WARLOCK"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
 		["PRIEST"] = {
 			["CureOrder"] = {
 				-12, -- [1]
@@ -29,6 +40,7 @@ DecursiveDB = {
 	},
 	["profileKeys"] = {
 		["Jeskar - The Scryers"] = "Default",
+		["Ozminski - The Scryers"] = "Default",
 		["Briscoe - The Scryers"] = "Default",
 		["Xaevus - Argent Dawn"] = "Default",
 	},

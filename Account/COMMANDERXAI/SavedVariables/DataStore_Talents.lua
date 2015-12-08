@@ -1,49 +1,50 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.The Scryers.Jeskar"] = {
 				["ActiveTalents"] = 1,
-				["lastUpdate"] = 1447725764,
+				["lastUpdate"] = 1449189898,
 				["Class"] = "WARRIOR",
 				["GlyphList"] = {
 					11, -- [1]
-					7954, -- [2]
-					7906, -- [3]
-					14898, -- [4]
-					18898, -- [5]
-					12210, -- [6]
-					7986, -- [7]
-					18914, -- [8]
-					7858, -- [9]
-					17170, -- [10]
-					19010, -- [11]
-					7938, -- [12]
-					18930, -- [13]
-					7874, -- [14]
-					7762, -- [15]
-					18946, -- [16]
-					7826, -- [17]
-					18962, -- [18]
-					8146, -- [19]
-					18978, -- [20]
-					14914, -- [21]
-					8114, -- [22]
-					7922, -- [23]
-					18994, -- [24]
-					8034, -- [25]
-					12274, -- [26]
-					12258, -- [27]
-					8082, -- [28]
-					7794, -- [29]
-					12226, -- [30]
-					8130, -- [31]
+					7914, -- [2]
+					7946, -- [3]
+					7770, -- [4]
+					8138, -- [5]
+					7954, -- [6]
+					14898, -- [7]
+					18898, -- [8]
+					12210, -- [9]
+					7986, -- [10]
+					18914, -- [11]
+					7858, -- [12]
+					17170, -- [13]
+					19010, -- [14]
+					18930, -- [15]
+					7874, -- [16]
+					18946, -- [17]
+					7826, -- [18]
+					18962, -- [19]
+					8146, -- [20]
+					18978, -- [21]
+					14914, -- [22]
+					8114, -- [23]
+					7922, -- [24]
+					18994, -- [25]
+					8034, -- [26]
+					12274, -- [27]
+					12258, -- [28]
+					8082, -- [29]
+					7794, -- [30]
+					12226, -- [31]
 					12194, -- [32]
 					13, -- [33]
 					16324, -- [34]
@@ -179,6 +180,48 @@ DataStore_TalentsDB = {
 					16788, -- [56]
 				},
 			},
+			["Default.The Scryers.Ozminski"] = {
+				["GlyphList"] = {
+					11, -- [1]
+					4370, -- [2]
+					18770, -- [3]
+					4466, -- [4]
+					12130, -- [5]
+					12082, -- [6]
+					12114, -- [7]
+					14578, -- [8]
+					4434, -- [9]
+					17138, -- [10]
+					4498, -- [11]
+					4546, -- [12]
+					18802, -- [13]
+					12162, -- [14]
+					18834, -- [15]
+					4386, -- [16]
+					7650, -- [17]
+					18850, -- [18]
+					4626, -- [19]
+					18882, -- [20]
+					12146, -- [21]
+					4658, -- [22]
+					13, -- [23]
+					12180, -- [24]
+					7700, -- [25]
+					7668, -- [26]
+					4676, -- [27]
+					4452, -- [28]
+					16932, -- [29]
+					4356, -- [30]
+					4484, -- [31]
+					18820, -- [32]
+					4420, -- [33]
+					4580, -- [34]
+					7716, -- [35]
+					4516, -- [36]
+					7636, -- [37]
+					4404, -- [38]
+				},
+			},
 			["Default.Argent Dawn.Briscoe"] = {
 				["ActiveTalents"] = 1,
 				["lastUpdate"] = 1448921665,
@@ -248,24 +291,33 @@ DataStore_TalentsDB = {
 				[485] = "Long Charge",
 				[251] = "Circle of Healing",
 				[262] = "Weakened Soul",
+				[278] = "Felguard",
 				[454] = "Winged Vengeance",
 				[486] = "Gushing Wound",
 				[502] = "Shield Slam",
 				[263] = "Power Word: Shield",
+				[279] = "Demon Training",
+				[1173] = "Dark Soul",
 				[1003] = "Mind Flay",
 				[1046] = "Lightwell",
 				[455] = "Flash of Light",
 				[487] = "Unending Rage",
 				[252] = "Purify",
 				[1048] = "Holy Resurrection",
+				[280] = "Health Funnel",
+				[1176] = "Metamorphosis",
 				[1049] = "The Val'kyr",
+				[1177] = "Shadowflame",
 				[1005] = "Shadow Word: Death",
 				[559] = "Denounce",
+				[1178] = "Soul Swap",
 				[456] = "Seal of Blood",
 				[488] = "Mighty Victory",
 				[1006] = "Vampiric Embrace",
 				[265] = "Psychic Scream",
 				[560] = "Dazing Shield",
+				[1180] = "Strengthened Resolve",
+				[911] = "Eternal Resolve",
 				[1181] = "Cleave",
 				[189] = "Consecration",
 				[197] = "Harsh Words",
@@ -275,12 +327,15 @@ DataStore_TalentsDB = {
 				[1183] = "Heroic Leap",
 				[505] = "Sweeping Strikes",
 				[266] = "Renew",
+				[282] = "Subtlety",
 				[1184] = "Mocking Banner",
 				[1185] = "Raging Blow",
 				[1009] = "Mass Exorcism",
+				[1058] = "Gateway Attunement",
 				[1186] = "Rallying Cry",
 				[458] = "Shadow Ravens",
 				[1187] = "Shattering Throw",
+				[755] = "Drain Life",
 				[267] = "Scourge Imprisonment",
 				[851] = "Thunder Strike",
 				[190] = "Luminous Charger",
@@ -289,6 +344,8 @@ DataStore_TalentsDB = {
 				[491] = "Enraged Speed",
 				[507] = "Resonating Power",
 				[268] = "Mind Blast",
+				[284] = "Imp Swarm",
+				[758] = "Demonic Circle",
 				[460] = "Borrowed Time",
 				[492] = "Hindering Strikes",
 				[508] = "Victory Rush",
@@ -297,38 +354,60 @@ DataStore_TalentsDB = {
 				[191] = "Focused Shield",
 				[199] = "Light of Dawn",
 				[461] = "Shackle Undead",
+				[477] = "Unending Breath",
 				[509] = "Raging Wind",
 				[270] = "Smite",
+				[286] = "Shadow Bolt",
 				[1073] = "Executor",
 				[762] = "Wind and Thunder",
+				[1007] = "Heavens",
+				[482] = "Soulwell",
 				[1202] = "Mind Harvest",
+				[1052] = "Shadowy Friends",
 				[462] = "Reflective Shield",
+				[478] = "Soul Consumption",
 				[1203] = "Merciful Wrath",
 				[763] = "Death from Above",
 				[271] = "Prayer of Mending",
+				[1067] = "Divine Shield",
+				[490] = "Bloody Healing",
+				[479] = "Eye of Kilrogg",
+				[481] = "Enslave Demon",
+				[761] = "Crimson Banish",
 				[184] = "Devotion Aura",
 				[764] = "Victorious Throw",
 				[200] = "Blessed Life",
+				[291] = "Unstable Affliction",
+				[759] = "Unending Resolve",
+				[289] = "Soulstone",
 				[463] = "Dark Archangel",
 				[701] = "Beacon of Light",
 				[495] = "Rude Interruption",
 				[765] = "Intimidating Shout",
+				[272] = "Hand of Gul'dan",
 				[1144] = "Ardent Defender",
 				[1208] = "Cleanse",
+				[760] = "Life Tap",
+				[1175] = "Life Pact",
 				[1145] = "Consecrator",
 				[989] = "Bladed Judgment",
 				[766] = "Spell Reflection",
 				[1082] = "Exorcist",
 				[1146] = "Divine Wrath",
+				[281] = "Healthstone",
+				[1071] = "Havoc",
 				[1083] = "Pillar of Light",
 				[703] = "Divine Storm",
 				[1211] = "Purification",
 				[767] = "Shield Wall",
 				[1084] = "Angels",
 				[1148] = "Hand of Freedom",
+				[277] = "Fear",
+				[757] = "Ember Tap",
 				[1085] = "Sha",
 				[1149] = "Judgment",
 				[991] = "Burning Anger",
+				[273] = "Conflagrate",
 				[1188] = "Flawless Defense",
 				[1150] = "Free Action",
 				[484] = "Bloodcurdling Shout",
@@ -337,11 +416,11 @@ DataStore_TalentsDB = {
 				[1151] = "Delayed Coalescence",
 				[497] = "Blitz",
 				[258] = "Deep Wells",
-				[1067] = "Divine Shield",
+				[274] = "Siphon Life",
 				[1152] = "Guardian Spirit",
 				[1020] = "Blazing Trail",
-				[961] = "Shadow",
 				[706] = "Holy Shock",
+				[961] = "Shadow",
 				[1153] = "Restored Faith",
 				[990] = "Crow Feast",
 				[264] = "Spirit of Redemption",
@@ -353,15 +432,15 @@ DataStore_TalentsDB = {
 				[1155] = "Inquisitor",
 				[188] = "Avenging Wrath",
 				[259] = "Mass Dispel",
-				[996] = "Battle Healer",
+				[275] = "Verdant Spheres",
 				[1156] = "Silence",
-				[1007] = "Heavens",
 				[489] = "Mortal Strike",
-				[931] = "Bull Rush",
 				[708] = "Dispersion",
+				[931] = "Bull Rush",
+				[1157] = "Redeemer",
 				[186] = "Divine Protection",
 				[194] = "Final Wrath",
-				[1052] = "Shadowy Friends",
+				[996] = "Battle Healer",
 				[1158] = "Shadow Magic",
 				[483] = "Mystic Shout",
 				[713] = "Binding Heal",
@@ -369,8 +448,8 @@ DataStore_TalentsDB = {
 				[709] = "Leap of Faith",
 				[499] = "Die by the Sword",
 				[260] = "Psychic Horror",
-				[1157] = "Redeemer",
-				[490] = "Bloody Healing",
+				[276] = "Nightmares",
+				[292] = "Falling Meteor",
 				[192] = "Burden of Guilt",
 				[987] = "Falling Avenger",
 				[269] = "Dispel Magic",
@@ -390,19 +469,24 @@ DataStore_TalentsDB = {
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
-		["WARRIOR"] = {
-			["Locale"] = "enUS",
-			["Version"] = 20574,
-		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
 			["Version"] = 20726,
+		},
+		["WARRIOR"] = {
+			["Locale"] = "enUS",
+			["Version"] = 20779,
+		},
+		["WARLOCK"] = {
+			["Locale"] = "enUS",
+			["Version"] = 20779,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",

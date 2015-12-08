@@ -1,10 +1,11 @@
 
 DataStore_CurrenciesDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
 		["Reference"] = {
@@ -42,27 +43,27 @@ DataStore_CurrenciesDB = {
 				["Valor"] = 25,
 				["Lesser Charm of Good Fortune"] = 2,
 				["Garrison Resources"] = 17,
-				["Warlords of Draenor"] = 16,
+				["Elder Charm of Good Fortune"] = 26,
 				["Valor Points"] = 7,
 				["Warforged Seal"] = 4,
 				["Mists of Pandaria"] = 1,
-				["Elder Charm of Good Fortune"] = 26,
+				["Timewarped Badge"] = 24,
 				["Player vs. Player"] = 13,
 				["Mote of Darkness"] = 23,
-				["Conquest Points"] = 14,
-				["Darkmoon Prize Ticket"] = 10,
 				["Timeless Coin"] = 3,
 				["Seal of Inevitable Fate"] = 20,
+				["Oil"] = 19,
+				["Darkmoon Prize Ticket"] = 10,
 				["Epicurean's Award"] = 11,
 				["Honor Points"] = 15,
-				["Oil"] = 19,
-				["Miscellaneous"] = 8,
+				["Warlords of Draenor"] = 16,
+				["Conquest Points"] = 14,
 				["Essence of Corrupted Deathwing"] = 22,
 				["Apexis Crystal"] = 18,
 				["Justice Points"] = 6,
+				["Miscellaneous"] = 8,
 				["Seal of Tempered Fate"] = 21,
 				["Dungeon and Raid"] = 5,
-				["Timewarped Badge"] = 24,
 				["Champion's Seal"] = 9,
 				["Mogu Rune of Fate"] = 27,
 			},
@@ -90,11 +91,11 @@ DataStore_CurrenciesDB = {
 					0, -- [14]
 					0, -- [15]
 				},
-				["lastUpdate"] = 1447725764,
+				["lastUpdate"] = 1449189898,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[396] = "0-0-0-0",
-					[390] = "0-0-30200-0",
+					[390] = "0-0-4700-0",
 					[823] = "0-0-0-0",
 					[392] = "0-0-0-0",
 					[824] = "0-0-0-0",
@@ -160,6 +161,22 @@ DataStore_CurrenciesDB = {
 					[392] = "1402-0-0-4000",
 					[994] = "0-0-0-0",
 					[824] = "396-0-0-10000",
+				},
+			},
+			["Default.The Scryers.Ozminski"] = {
+				["Currencies"] = {
+					27, -- [1]
+					28, -- [2]
+				},
+				["lastUpdate"] = 1449194641,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-0-0",
+					[390] = "0-0-4700-0",
+					[823] = "0-0-0-0",
+					[392] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[824] = "0-0-0-0",
 				},
 			},
 			["Default.Argent Dawn.Briscoe"] = {

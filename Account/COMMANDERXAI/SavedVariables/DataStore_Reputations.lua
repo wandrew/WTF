@@ -1,26 +1,28 @@
 
 DataStore_ReputationsDB = {
 	["profileKeys"] = {
+		["Ozminski - The Scryers"] = "Ozminski - The Scryers",
+		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 		["Jeskar - The Scryers"] = "Jeskar - The Scryers",
 		["Briscoe - Argent Dawn"] = "Briscoe - Argent Dawn",
 		["Briscoe - The Scryers"] = "Briscoe - The Scryers",
-		["Xaevus - Argent Dawn"] = "Xaevus - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.The Scryers.Jeskar"] = {
-				["lastUpdate"] = 1447726359,
+				["lastUpdate"] = 1449189898,
 				["Factions"] = {
-					[7] = 18077,
-					[78] = 6092,
-					[8] = 5585,
-					[9] = 2985,
-					[10] = 2885,
-					[20] = 1000,
-					[76] = 5985,
-					[6] = 9255,
+					[7] = 18087,
+					[29] = 270,
+					[8] = 6467,
+					[9] = 6320,
 					[17] = 500,
-					[113] = 5585,
+					[10] = 3767,
+					[20] = 1000,
+					[76] = 6867,
+					[6] = 9255,
+					[113] = 6467,
+					[78] = 6975,
 				},
 			},
 			["Default.The Scryers.Briscoe"] = {
@@ -100,6 +102,19 @@ DataStore_ReputationsDB = {
 					[74] = 19202,
 					[13] = 42999,
 					[40] = 42999,
+				},
+			},
+			["Default.The Scryers.Ozminski"] = {
+				["lastUpdate"] = 1449195420,
+				["Factions"] = {
+					[113] = 3100,
+					[7] = 3100,
+					[8] = 3100,
+					[10] = 400,
+					[9] = 500,
+					[6] = 3100,
+					[76] = 3500,
+					[78] = 3110,
 				},
 			},
 			["Default.Argent Dawn.Briscoe"] = {
